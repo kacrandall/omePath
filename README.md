@@ -82,14 +82,14 @@ Users can bring their own mapping files (pathways-omics) with the following form
     
 We provide mapping files (pathways-feature) for four main omics:
 
-* Metagenomics: Microbial genes pathways (GO terms - UniRef90)
+* Metagenomics: Microbial genes pathways (GO terms - [UniRef90](https://www.uniprot.org/help/uniref))
     * * Please download the pre-processed mapping file at [HERE](https://www.dropbox.com/s/k7xx47z5ap0ag4n/GO_UNIREF90_MAP.tsv?dl=0)
 
-* The Molecular Signatures Database (MSigDB), C5: ontology gene sets including 14765 gene sets
+* The Molecular Signatures Database ([MSigDB](https://www.gsea-msigdb.org/gsea/msigdb/)), C5: ontology gene sets including 14765 gene sets
     * Please download the pre-processed mapping file at [HERE](https://www.dropbox.com/s/zlobyzn92r43nqy/c5.all.v7.1.entrez.tsv?dl=0)
 
 
-* Metabolomics: (Metabolic Pathways - Metabolites HMDBID)
+* Metabolomics: (Metabolic Pathways - Metabolites [HMDBID](https://hmdb.ca/metabolites?c=id&d=down))
     * Please download the pre-processed mapping file at [HERE](https://www.dropbox.com/s/rzx6hsq7xmr87te/smpdb_metabolites.tsv?dl=0)
     
 
